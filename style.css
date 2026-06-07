@@ -20,7 +20,7 @@ body {
   padding: 24px;
   background-color: #F0E8C2;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 
 main img {
@@ -67,4 +67,18 @@ ul {
 
 #preparation p{
   margin-bottom: 12px;
+}
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+footer p {
+  font-size: 16px;
 }
